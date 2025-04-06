@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+	printf("Sendto, Team!");
+	return 0;
+}
+
+int main() {
+	printf("<a>Hello</a>, Everybody");
+	return 0;
+}
