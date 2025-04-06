@@ -5,6 +5,6 @@ int main() {
 }
 
 int main() {
-	printf("<a>Hello</a>, Everybody");
+	printf("<a>H****</a>, Everybody");
 	return 0;
 }
